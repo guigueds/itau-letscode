@@ -1,6 +1,6 @@
 package br.com.letscode.turmaitau;
 
-public class Sugestao {
+public class SugestaoAlfabeto {
     public static void main(String[] args) {
         String[] input = {"acbda", "fasdlkh", "poiwqd", "zxcqwtop", "qfgophl"};
         System.out.println(substring(input));
