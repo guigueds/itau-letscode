@@ -4,7 +4,7 @@ public class SugestaoAlfabeto {
     public static void main(String[] args) {
         String[] input = {"acbda", "fasdlkh", "poiwqd", "zxcqwtop", "qfgophl"};
         System.out.println(substring(input));
-
+//teste commit git
     }
     public static String substring(String[] input) {
         String longestSequence = "";
