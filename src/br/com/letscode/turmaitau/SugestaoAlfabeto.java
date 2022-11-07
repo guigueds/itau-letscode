@@ -5,6 +5,7 @@ public class SugestaoAlfabeto {
         String[] input = {"acbda", "fasdlkh", "poiwqd", "zxcqwtop", "qfgophl"};
         System.out.println(substring(input));
 //teste commit git
+        //teste commit Vlad
     }
     public static String substring(String[] input) {
         String longestSequence = "";
